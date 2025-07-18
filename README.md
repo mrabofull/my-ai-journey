@@ -30,12 +30,13 @@
 
 ## 🗂️ Repository Structure
 
-my-ai-journey/
-├── daily-notes/ # Daily learning logs
-├── projects/ # Hands-on implementations
-├── certificates/ # Course completions
-├── job-prep/ # CV, portfolio, interview prep
-└── resources/ # Cheatsheets and references `
+- **my-ai-journey/**
+  - `daily-notes/` &mdash; Daily learning logs  
+  - `projects/` &mdash; Hands-on implementations  
+  - `certificates/` &mdash; Course completions  
+  - `job-prep/` &mdash; CV, portfolio, interview prep  
+  - `resources/` &mdash; Cheatsheets and references  
+
 
 ## 🛠️ Tech Stack Focus
 
